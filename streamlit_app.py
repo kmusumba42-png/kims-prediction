@@ -39,4 +39,3 @@ if choix == "VALUE BETS":
                psw = st.text_input("Code Secret", type="password")
                 if psw == "243":
                   st.success("### Bienvenue, Partenaire Félicité KILOLO MUSUMBA")
-                  
